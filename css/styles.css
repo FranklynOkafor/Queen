@@ -1371,18 +1371,20 @@ pre code {
   .container {
     max-width: 540px;
   }
-  .portfolio-container{
-    gap: 20px;
-  }
-  .partner-image{
-    gap: 20px;
-    height: 70px;
-  }
+
+  
 }
 
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
+  }
+  .portfolio-container{
+    gap: 15px;
+  }
+  .portfolio .container{
+    width: 100%;
+    padding: 0;
   }
 }
 
@@ -1390,6 +1392,7 @@ pre code {
   .container {
     max-width: 960px;
   }
+  
 }
 
 @media (min-width: 1200px) {
