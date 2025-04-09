@@ -104,7 +104,7 @@ textarea {
 }
 
 .submit-button {
-  background-color: #007bff;
+  background-color: #000;
   color: white;
   padding: 14px 24px;
   border: none;
@@ -282,7 +282,7 @@ textarea {
 }
 
 .progress-bar {
-  background-color: #f0f0f0;
+  background-color: #C599B6;
   border-radius: 5px;
   height: 9px; /* Slightly reduced height */
   width: 100%;
@@ -290,7 +290,7 @@ textarea {
 }
 
 .progress-fill {
-  background-color: #007bff; /* Your accent color */
+  background-color: #000; /* Your accent color */
   height: 100%;
   border-radius: 5px;
   width: 70%; /* Default width */
